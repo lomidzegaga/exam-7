@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">exam7</string>
+    <string name="start">Start</string>
+    <string name="cources">Cources</string>
+    <string name="booked_for">Booked for</string>
+</resources>
